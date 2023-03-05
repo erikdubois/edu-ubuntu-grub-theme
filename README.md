@@ -1,6 +1,8 @@
 # Ubuntu grub theme
 
+source
 
+https://github.com/AdisonCavani/distro-grub-themes
 
 
 # Websites
